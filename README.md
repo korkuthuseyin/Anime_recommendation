@@ -2,7 +2,7 @@ ANIME RECOMMENDATION SYSTEM
 
 1-Description:
 
-This project is a data mining application designed to recommend new anime to users based on their previously watched titles. Utilizing two datasets, 'anime.csv' and 'rating.csv', it employs a collaborative filtering approach to identify user preferences and suggest relevant anime.
+This project is a data mining application designed to recommend new anime to users based on their previously watched titles. Utilizing two datasets, 'anime.csv' and 'rating.csv', it employs a collaborative filtering approach to identify user preferences and user's like rate suggest relevant anime.
 
 
 
